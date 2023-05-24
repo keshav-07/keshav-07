@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @keshav-07
-- 👀 I’m interested in coding & learning
-- 🌱 I’m currently learning python
+
+- 🌱 A student from Bihar.....
 - 📫 You can reach me on Instagram insta-id~  its___keshav
 
 <!---
